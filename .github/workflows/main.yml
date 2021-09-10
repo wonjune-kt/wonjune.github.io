@@ -18,7 +18,7 @@ jobs:
         run: npm install
       - #name: Test React
         #env:
-          #CI: true
+        #  CI: true
         #run: npm test
       - name: Build React
         run: npm run build

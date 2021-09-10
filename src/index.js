@@ -8,7 +8,7 @@ return (
       <div className="flex flex-col">
       <div className="w-6/12 border-2 border-black">First</div>
       <div className="w-6/12 border-2 border-black">Second</div>
-      <div className="w-6/12 border-2 border-black">Third</div>
+      <div className="w-6/12 border-2 border-black">Third3</div>
       <div className="w-6/12 border-2 border-black">Fourth</div>
       <div className="w-6/12 border-2 border-black">Five</div>
     </div>
